@@ -1,0 +1,14 @@
+layout_spectrum: 0.34095189440995455
+typography_spectrum: 0.2736071201507002
+color:
+  brandStrength: 0.19819820998236537
+  lightness: 0.5565691979136318
+  saturation: 0.9094161104876548
+  rhythmicContrast: 0.7896253233775496
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: localization solution
